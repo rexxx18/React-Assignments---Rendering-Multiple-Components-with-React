@@ -10,8 +10,8 @@ const App = () => {
         Name:
         <Name />
       </h1>
-      <div data-ns-test="project-name">
-        Description:
+      <div data-ns-test="project-description">
+        Description: this is the so called description of my project.
         <Description />
       </div>
     </>
